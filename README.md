@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 ![](https://img.shields.io/static/v1?label=BY&message=Reemoz&color=pink)
 
 # Schedule Tweets
