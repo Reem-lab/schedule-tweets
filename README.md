@@ -1,9 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 ![](https://img.shields.io/static/v1?label=BY&message=Reemoz&color=pink)
 
 # Schedule Tweets
 
-> The app you can schedule your tweets and add new tweet and update and delete it with aithentication and authorization.
+> The app you can schedule your tweets and add new tweet and update and delete it with  authorization and authentication.
 
 ## Built With
 
