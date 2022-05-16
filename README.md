@@ -3,7 +3,7 @@
 
 # Schedule Tweets
 
-> The app you can schedule your tweets and add new tweet and update and delete it with aithentication and authorization.
+> The app you can schedule your tweets and add new tweet and update and delete it with  authorization and authentication.
 
 ## Built With
 
