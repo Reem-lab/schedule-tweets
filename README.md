@@ -2,7 +2,7 @@
 
 # Schedule Tweets
 
-> The app you can schedule your tweets and add new tweet and update and delete it with  authorization and authentication.
+> The app you can schedule your tweets and add new tweet and update and delete it with  authorization and authentication.and I used twitter api to make the actions for creating and updating and deleting a twitt.📱
 
 ## Built With
 
